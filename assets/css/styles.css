@@ -105,9 +105,9 @@ main div section {
     margin-bottom: 50px;
 }
 
-.main__formation:hover, #content-main li:hover {
+.main__content--border_right:hover {
 
-    border-right: 13px solid #dbc2a4;
+    border-right: 10px solid #782221;
 }
 
 .main__title {
